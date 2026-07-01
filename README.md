@@ -29,5 +29,5 @@ AutoReport/
 - Python
 - Typer
 
-##Author
+## Author
 ### Aman Sharma
