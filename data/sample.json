@@ -1,1 +1,27 @@
-
+[
+  {
+    "Name": "Aman",
+    "Age": 20,
+    "Department": "IT"
+  },
+  {
+    "Name": "Harsh",
+    "Age": 21,
+    "Department": "HR"
+  },
+  {
+    "Name": "Ekta",
+    "Age": 22,
+    "Department": "Finance"
+  },
+  {
+    "Name": "Aadi",
+    "Age": 23,
+    "Department": "IT"
+  },
+  {
+    "Name": "Nishi",
+    "Age": 24,
+    "Department": "HR"
+  }
+]
