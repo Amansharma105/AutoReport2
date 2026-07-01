@@ -1,1 +1,24 @@
+[project]
+name = "autoreport"
+version = "0.1.0"
+description = "Automated Report and Analytics Generator"
+authors = [
+    {name = "Aman Sharma"}
+]
 
+requires-python = ">=3.11"
+
+dependencies = [
+    "typer",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "jinja2",
+    "reportlab",
+    "pyyaml",
+    "pytest"
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
