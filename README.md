@@ -18,8 +18,8 @@ AutoReport is a Python-based Command Line Interface (CLI) application for genera
 - Line Chart
 - Pie Chart
 - Scatter Plot
-- HTML report generation using Jinja2
- 
+- HTML report generation using Jinja2 - PDF report generation
+- Automated testing with Pytest
  ## Project Structure
 
 ```text
