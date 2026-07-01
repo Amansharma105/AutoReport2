@@ -13,6 +13,7 @@ AutoReport is a Python-based Command Line Interface (CLI) application for genera
 - Excel data loading
 - JSON data loading
 - SQLite database support
+- Statistical analysis (Mean, Median, Mode, Standard Deviation)
 
 ## Project Structure
 
