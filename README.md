@@ -9,6 +9,8 @@ AutoReport is a Python-based Command Line Interface (CLI) application for genera
 - Project setup
 - Organized folder structure
 - Easy to extend
+- CSV data loading
+- Excel data loading
 
 ## Project Structure
 
